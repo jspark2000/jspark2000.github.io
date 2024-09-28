@@ -13,7 +13,7 @@ export default function AwardsSection() {
             National Best Manager
           </h3>
           <p className="text-sm text-zinc-400">
-            Korean American Football Association
+            Korea American Football Association
             <br />
             2022.11
           </p>

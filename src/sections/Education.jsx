@@ -10,20 +10,25 @@ export default function EducationSection() {
         </div>
         <div className="mt-3 flex flex-col space-y-2">
           <h3 className="text-lg font-semibold text-zinc-50">
-            Applied Artifical Intelligence
+            Applied Artifical Intelligence(B.S.)
           </h3>
           <p className="text-sm text-zinc-400">
             Sungkyunkwan University (SKKU) <br />
             2019.3 ~ now
           </p>
-
           <h3 className="text-lg font-semibold text-zinc-50">
-            Computer Science
+            Computer Science(B.S.)
           </h3>
           <p className="text-sm text-zinc-400">
             Sungkyunkwan University (SKKU) <br />
             2020.9 ~ now
           </p>
+          <h3 className="pt-3 text-lg font-semibold text-zinc-50">
+            GPA{' '}
+            <span className="ml-3 text-base text-zinc-400">
+              4.2 / 4.5 (major)
+            </span>
+          </h3>
         </div>
       </div>
     </section>

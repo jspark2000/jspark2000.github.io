@@ -6,7 +6,7 @@ export default function ProjectSection() {
       <div className="flex flex-col rounded-md py-5 sm:px-6">
         <div className="flex flex-row items-center space-x-2">
           <FaRunning className="h-6 w-6 text-amber-400" />
-          <h2 className="text-2xl font-bold text-amber-400">Projects</h2>
+          <h2 className="text-2xl font-bold text-amber-400">Toy Projects</h2>
         </div>
         <div className="mt-3 flex flex-col space-y-2">
           <h3 className="text-lg font-semibold text-zinc-50">Codedang</h3>

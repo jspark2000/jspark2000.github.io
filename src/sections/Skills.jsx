@@ -11,17 +11,10 @@ export default function SkillsSection() {
         <div className="mt-3 flex flex-col space-y-2">
           <h3 className="text-lg font-semibold text-zinc-50">Backend</h3>
           <p className="text-sm text-zinc-400">
-            Javascript, Typescript, Java, Kotlin, Express, NestJS,
-            Spring(Kotlin)
+            Java, Kotlin, Spring(Kotlin), Python, FastAPI, NodeJS, Express
           </p>
-
           <h3 className="text-lg font-semibold text-zinc-50">Frontend</h3>
-          <p className="text-sm text-zinc-400">
-            Javascript, Typescript, React, NextJS, VueJS
-          </p>
-
-          <h3 className="text-lg font-semibold text-zinc-50">DevOps</h3>
-          <p className="text-sm text-zinc-400">AWS, Terraform</p>
+          <p className="text-sm text-zinc-400">Javascript, Typescript, React</p>
         </div>
       </div>
     </section>

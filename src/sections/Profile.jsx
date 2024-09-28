@@ -10,14 +10,14 @@ export default function ProfileSection() {
       />
       <h2 className="text-xl font-bold text-zinc-50">Park Jisoo</h2>
       <p className="text-xs font-light text-amber-400">Backend Developer</p>
-      <p className="mt-5 text-center text-sm font-normal text-zinc-50">
-        "Hello! I'm an undergraduate student
-        <br />
-        aspiring to become a backend developer."
+      <p className="mt-5 px-5 text-center text-sm font-normal text-zinc-50">
+        Hello! I'm an undergraduate student aspiring to become a backend
+        developer | AI engineer.
       </p>
       <div className="mt-8 flex flex-row space-x-3 text-zinc-50 sm:mt-10">
-        <FaGithub className="h-5 w-5" />
-        <FaLinkedin className="h-5 w-5" />
+        <a href="https://github.com/jspark2000">
+          <FaGithub className="h-5 w-5" />
+        </a>
       </div>
       <div className="mt-8 flex flex-col space-y-1 text-center sm:mt-10">
         <p className="text-sm text-zinc-400">idpjs2000@gmail.com</p>

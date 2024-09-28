@@ -11,21 +11,25 @@ export default function CareerSection() {
         <div className="mt-3 flex flex-col space-y-2">
           <h3 className="text-lg font-semibold text-zinc-50">Human Trust</h3>
           <p className="text-sm font-semibold text-zinc-50">
-            Backend, Devops Developer (Full Time)
+            Backend Developer (Full Time)
           </p>
           <p className="text-sm text-zinc-400">
-            Development of a blockchain-based sports association protocol
-            <br />
-            2023.6 ~ 2024.3
+            Development of a blockchain-based sports association web server
+            (Kotlin, Spring). Serverless application development including image
+            compression, CDN path access restriction, (NodeJS).
           </p>
-
-          <h3 className="pt-3 text-lg font-semibold text-zinc-50">Crois</h3>
+          <p className="text-sm text-zinc-400">2023.6 ~ 2024.3</p>
+          <h3 className="pt-3 text-lg font-semibold text-zinc-50">
+            Crois Technology Lab
+          </h3>
           <p className="text-sm font-semibold text-zinc-50">
-            Backend, Frontend Developer (Part Time)
+            Fullstack Developer (Freelancer, Full Time)
           </p>
           <p className="text-sm text-zinc-400">
-            Building a data collection pipeline for factory robots and
-            developing the system UI.
+            Enhancing the data collection pipeline for CNC machines(MQTT,
+            FastAPI) and Developing an Interface for the Visualization of
+            Various Data Analysis Techniques, Including FFT and STFT(React,
+            WebGL).
             <br />
             2024.4 ~ now
           </p>

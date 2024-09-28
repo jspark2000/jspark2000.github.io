@@ -10,7 +10,7 @@ export default function IntroductionSection() {
         </div>
         <p className="mt-5 px-5 text-base text-zinc-50">
           Hello! I'm an undergraduate student aspiring to become a backend
-          developer.
+          developer | AI engineer.
         </p>
       </div>
     </section>
